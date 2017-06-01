@@ -1,0 +1,23 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "ejercicio de tdd",
+  "main": "test.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeidyRosmery/gentle-tdd.git"
+  },
+  "keywords": [
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "leidy rosmery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeidyRosmery/gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/LeidyRosmery/gentle-tdd#readme"
+}
